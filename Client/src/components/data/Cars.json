@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Audi A6",
+    "type": "Askaricar",
+    "price": 40000,
+    "image": "Audi.png",
+    "description": "Luxury sedan with comfort and premium features."
+  },
+  {
+    "id": 2,
+    "name": "Toyota Revo",
+    "type": "Pickup Truck",
+    "price": 15000,
+    "image": "Toyato-rivo.png",
+    "description": "Strong and durable off-road pickup."
+  },
+  {
+    "id": 3,
+    "name": "Land Cruiser V8",
+    "type": "Luxury SUV",
+    "price": 30000,
+    "image": "Prado.png",
+    "description": "Powerful and stylish full-size SUV."
+  },
+  {
+    "id": 4,
+    "name": "Toyota Corolla Gli",
+    "type": "Sedan",
+    "price": 5800,
+    "image": "Corolla.png",
+    "description": "Reliable and fuel-efficient family car."
+  },
+  {
+    "id": 5,
+    "name": "Toyota Yaris Gli",
+    "type": "Compact Sedan",
+    "price": 6000,
+    "image": "Yaris.png",
+    "description": "Compact, economical and modern features."
+  },
+  {
+    "id": 6,
+    "name": "Honda BR-V",
+    "type": "7-Seater SUV",
+    "price": 7500,
+    "image": "Honda.png",
+    "description": "Spacious 7-seater, ideal for families."
+  },
+  {
+    "id": 7,
+    "name": "Mercedes Grand Sedan",
+    "type": "Luxury Sedan",
+    "price": 500,
+    "image": "wagon.jpg",
+    "description": "Elite luxury and high performance."
+  },
+  {
+    "id": 8,
+    "name": "Mercedes Grand Sedan",
+    "type": "Luxury Sedan",
+    "price": 500,
+    "image": "waggon.jpg",
+    "description": "Elite luxury and high performance."
+  }
+]

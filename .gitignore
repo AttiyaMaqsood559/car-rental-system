@@ -1,0 +1,21 @@
+# ===== CLIENT FOLDER IGNORE =====
+Client/node_modules/
+Client/dist/
+Client/public/
+Client/src/assets/
+Client/eslint.config.js
+Client/package-lock.json
+Client/package.json
+Client/vite.config.js
+
+# ===== SERVER FOLDER IGNORE =====
+Server/node_modules/
+Server/db/
+Server/.env
+Server/package-lock.json
+Server/package.json
+
+# ===== GENERAL IGNORE =====
+*.log
+.DS_Store
+Thumbs.db

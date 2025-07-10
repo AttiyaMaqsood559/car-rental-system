@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Nunito:wght@300;400;600;700;800;900&family=Russo+One&family=Spartan:wght@700;800;900&display=swap");
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  overflow-x: hidden;
+}
+.car-animation {
+  width: 100%;
+  height: 100vh;
+  background-color: #8bb8e0;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.car {
+  width: 350px;
+  position: absolute;
+  animation: drive 1s linear forwards;
+}
+
+@keyframes drive {
+  0% {
+    left: -200px;
+  }
+  100% {
+    left: 100%;
+  }
+}
+
+.main-content {
+  display: none;
+  opacity: 0;
+}
+
+body.loaded .main-content {
+  display: block;
+  opacity: 1;
+}
+
+.bookme-logo {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 160px;
+  opacity: 1;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.body-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+.body-section {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.body-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+.center-text {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  font-size: 24px;
+}
+
+.center-text button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: rgb(61, 162, 224);
+  color: white;
+  font-weight: bolder;
+  border: 1px solid white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: medium;
+}
+
+.center-text button:hover {
+  background-color: #051a2d;
+  padding: 10px 20px;
+}

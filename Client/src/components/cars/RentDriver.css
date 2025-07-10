@@ -1,0 +1,41 @@
+.reviews-section {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+}
+
+.review-card-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.review-card1 {
+  flex: 0 1 55%;
+}
+
+.review-card1 h3 {
+  font-size: 28px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.review-card1 p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #555;
+  text-align: justify;
+}
+
+.review-card2 {
+  flex: 0 1 40%;
+  display: flex;
+  justify-content: center;
+}
+
+.review-card2 img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}

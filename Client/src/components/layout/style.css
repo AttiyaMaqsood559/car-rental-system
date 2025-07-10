@@ -1,0 +1,44 @@
+nav {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav h4 {
+  color: white;
+  font-size: 24px;
+  margin: 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+nav a:hover {
+  color: skyblue;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  padding: 30px 20px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.footer-content a {
+  color: #9acd32;
+  text-decoration: none;
+}
+
+.footer-content a:hover {
+  text-decoration: underline;
+}
