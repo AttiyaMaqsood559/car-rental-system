@@ -2,7 +2,7 @@
 
 ## 🎥 Demo Video
 
-▶️ [Click here to watch the demo](./demo/car_rental_system_demo.mp4)
+▶️ [Click here to watch the demo](./demo/car_rental_system_demo.gif)
 
 # 🚗 Car Rental System (MERN Stack)
 
