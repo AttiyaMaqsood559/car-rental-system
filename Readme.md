@@ -1,5 +1,9 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## 🎥 Demo Video
+
+▶️ [Click here to watch the demo](./demo/car_rental_system_demo.mp4)
+
 # 🚗 Car Rental System (MERN Stack)
 
 This is a full-featured Car Rental System built using the **MERN stack** (MongoDB, Express, React, Node.js) with authentication and secure backend. The frontend is styled using **HTML, CSS**, and **React.js animations**. The system is designed for users to sign up, book cars, manage bookings, and share feedback — with real-time car animation and responsive layout.
