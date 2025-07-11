@@ -7,6 +7,7 @@ Client/eslint.config.js
 Client/package-lock.json
 Client/package.json
 Client/vite.config.js
+Client/src/data
 
 # ===== SERVER FOLDER IGNORE =====
 Server/node_modules/
